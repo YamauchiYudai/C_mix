@@ -1,5 +1,4 @@
-// binary search algorithm.c
-// Author: Yamauchi Yudai, 2019
+
 
 //二分探索を用いた方程式の解法
 

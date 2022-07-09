@@ -1,5 +1,4 @@
-//  sort.c
-// Author: Yamauchi Yudai, 2019
+
 
 // バブルソート、シェルソート、クイックソートをCで実装したもの
 #include <stdio.h>

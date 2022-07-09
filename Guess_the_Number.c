@@ -1,5 +1,3 @@
-// Guess_the_Number.c
-// Author: Yamauchi Yudai, 2019
 
 //数当てゲーム
 
