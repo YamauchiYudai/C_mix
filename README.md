@@ -1,4 +1,4 @@
 # C_mix
-# Author: Yamauchi Yudai, 2022, 
+## Author: Yamauchi Yudai, 2022, 
 
-今まで作成したCのファイルをとりあえず上げたもの
+This code I made in some lectures. So this is like reminder💛
